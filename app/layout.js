@@ -1,7 +1,7 @@
 
 import "./globals.css";
 import { Montserrat } from "next/font/google";
-const montseerat = Montserrat({ subsets: ["arabic"] });
+const montseerat = Montserrat({ subsets: ["vietnamese"] });
 
 export const metadata = {
   title: "Health Care",
